@@ -4,6 +4,12 @@ TikTok's [Privacy Innovation](https://privacyinnovation.io/) is an open-source i
 
 Visit our website at [privacyinnovation.io](https://privacyinnovation.io/) to learn more.
 
+### Stay connected on social media 🌟
+
+[x.com/TikTokPrivacyGo](https://x.com/TikTokPrivacyGo)
+
+[dev.to/PrivacyInnovation](https://dev.to/privacyinnovation)
+
 ### 🍿 An interconnected community
 
 The open source community is the 💗 heart of Privacy Innovation and fundamental to how we build software today.
