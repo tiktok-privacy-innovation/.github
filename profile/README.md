@@ -6,9 +6,9 @@ Visit our website at [privacyinnovation.io](https://privacyinnovation.io/) to le
 
 ### Stay connected on social media 🌟
 
-[x.com/TikTokPrivacyGo](https://x.com/TikTokPrivacyGo)
+* [x.com/TikTokPrivacyGo](https://x.com/TikTokPrivacyGo)
 
-[dev.to/PrivacyInnovation](https://dev.to/privacyinnovation)
+* [dev.to/PrivacyInnovation](https://dev.to/privacyinnovation)
 
 ### 🍿 An interconnected community
 
