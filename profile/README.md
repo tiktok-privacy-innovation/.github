@@ -1,6 +1,8 @@
 ## Welcome to Privacy Innovation 👋
 
-TikTok's Privacy Innovation is an open-source initiative dedicated to advancing data privacy through cutting-edge technological advancements and empowering privacy with advanced tech.
+TikTok's [Privacy Innovation](https://privacyinnovation.io/) is an open-source initiative dedicated to advancing data privacy through cutting-edge technological advancements and empowering privacy with advanced tech.
+
+Visit our website at [privacyinnovation.io](https://privacyinnovation.io/) to learn more.
 
 ### 🍿 An interconnected community
 
